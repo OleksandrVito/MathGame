@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="Light_theme">Light_theme</string>
+    <string name="Dark_theme">Dark_theme</string>
+    <string name="Auto_theme">Auto_theme</string>
+    <string name="Time_is_up">Час закінчився!</string>
+    <string name="Your_result">Твій результат:</string>
+    <string name="The_best_result">Кращий результат:</string>
+    <string name="restart">з початку</string>
+    <string name="back_home">на головну</string>
+    <string name="easy_level">легкий</string>
+    <string name="medium_level">середній</string>
+    <string name="hard_level">складний</string>
+    <string name="Choose_a_level">Вибери рівень:</string>
+    <string name="Your_records">Твої рекорди:</string>
+    <string name="Choose_operations">Вибери дії: </string>
+    <string name="min"> хв</string>
+    <string name="Choose_a_time">Вибери час:</string>
+    <string name="Score">Рахунок:</string>
+    <string name="Start">Старт</string>
+    <string name="choose_a_theme">Вибери тему</string>
+</resources>

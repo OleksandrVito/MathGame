@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="Light_theme">Light_theme</string>
+    <string name="Dark_theme">Dark_theme</string>
+    <string name="Auto_theme">Auto_theme</string>
+    <string name="Time_is_up">Time is up!</string>
+    <string name="Your_result">Your result:</string>
+    <string name="The_best_result">The best result:</string>
+    <string name="restart">restart</string>
+    <string name="back_home">back home</string>
+    <string name="easy_level">easy</string>
+    <string name="medium_level">medium</string>
+    <string name="hard_level">hard</string>
+    <string name="Choose_a_level">Choose a level:</string>
+    <string name="Choose_operations">Choose operations:</string>
+    <string name="Your_records">Your records: </string>
+    <string name="min"> min</string>
+    <string name="Choose_a_time">Choose a time:</string>
+    <string name="Score">Score:</string>
+    <string name="Start">Start</string>
+    <string name="choose_a_theme">Сhoose a theme</string>
+    <string name="main_banner1" translatable="false">ca-app-pub-1869740172940843/5692308861</string>
+</resources>
